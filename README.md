@@ -1,11 +1,11 @@
 <h2  align="center">Hi, I'm Amit Levi 👋</h2>
 <p align="left">
-<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNzdHllb3l6dTc3c3lweGpiOTFsOXc1cjMxeGZ4ZGhkZjEzcm8zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9BXjBNE16PaHFrJwCr/giphy.gif" height="50%" width="50%" align="right" style="margin-right: 10px;">
+<img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExeWNzdHllb3l6dTc3c3lweGpiOTFsOXc1cjMxeGZ4ZGhkZjEzcm8zbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/9BXjBNE16PaHFrJwCr/giphy.gif" height="30%" width="30%" align="right" style="margin-right: 10px;">
 I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-on experience in cloud infrastructure, automation, and system security. With over 4 years of Python scripting experience and a passion for building efficient CI/CD pipelines and secure IT solutions, I love leveraging technology to solve real-world problems. make it more simple and natural
 </p>
 
-
-<h6 align="center" >(Open for Hiring)</h6>
+<br><br><br><br><br><br><br><br>
+<h6 align="center" >(Open for Hiring -ooking for a relocation to the U.S)</h6>
 <hr>
 <h2  align="center">🔧 Skills & Tools</h2>
 
