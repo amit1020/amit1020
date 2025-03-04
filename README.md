@@ -6,7 +6,7 @@ I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-o
 
 <br><br><br><br><br><br><br><br>
 <h4 align="center" >(Open for Hiring -ooking for a relocation to the U.S)</h4>
-<hr>
+<hr><br><br>
 <h2  align="center">🔧 Skills & Tools</h2>
 
 - **Programming & Scripting:**
@@ -20,8 +20,7 @@ I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-o
 - **Security & Networking:**
   Cybersecurity fundamentals, penetration testing, troubleshooting
 
-<hr>
-
+<hr><br><br>
 <h2  align="center">🎓 Education & Certifications</h2>
 
 - **DevOps Professional Training:**
@@ -35,7 +34,7 @@ I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-o
       Certification ID: ```ITS738313246140```
     - **Python Development Certification (2021)**
       Certification ID: ```ITS171128826871``` 
-<hr>
+<hr><br><br>
 
 <h2  align="center">🌍 About Me</h2>
 
