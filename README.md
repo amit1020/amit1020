@@ -5,7 +5,7 @@ I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-o
 </p>
 
 <br><br><br><br><br><br><br><br>
-<h4 align="center" >(Open for hiring - looking for a relocation to the U.S)</h4>
+<h4 align="center" >(Open for hiring - looking for a relocation to the Europe /U.S)</h4>
 <hr><br><br>
 <h2  align="center">🔧 Skills & Tools</h2>
 
