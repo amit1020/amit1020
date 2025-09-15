@@ -29,6 +29,7 @@ I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-o
 
 <hr><br><br>
 <h2  align="center">🎓 Education & Certifications</h2>
+
 - **AWS Certified Solutions Architect - Associate:**
     Issued: May 21, 2025
 - **DevOps Professional Training:**
