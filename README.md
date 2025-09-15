@@ -1,28 +1,36 @@
 <h2  align="center">Hi, I'm Amit Levi 👋</h2>
 <p align="left">
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2tocWE0d2ZlOXU3aWFmMXc5cjk1YnQ3anc2MHZhZzQ0ems2dGNvbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/jQPRXqTQu1hxut85sV/giphy.gif" height="35%" width="40%" align="right" style="margin-right: 10px;">
-I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-on experience in cloud infrastructure, automation, and system security. With over 4 years of Python scripting experience and a passion for building efficient CI/CD pipelines and secure IT solutions, I love leveraging technology to solve real-world problems. make it more simple and natural
+I'm a motivated and detail-oriented DevOps & Cybersecurity Engineer with hands-on experience in cloud infrastructure and automations. With over 4 years of Python scripting experience and a passion for building efficient CI/CD pipelines and secure IT solutions, I love leveraging technology to solve real-world problems. make it simpler and natural. 
 </p>
 
 <br><br><br><br><br><br><br><br>
-<h4 align="center" >(Open for hiring - looking for a relocation to the Europe /U.S)</h4>
+<h4 align="center" >B.Sc. Student in Computer Science, Tel Aviv University (Present)</h4>
 <hr><br><br>
 <h2  align="center">🔧 Skills & Tools</h2>
 
 - **Programming & Scripting:**
-    Python (Advanced), Bash, JavaScript, HTML, CSS
-- **Cloud & DevOps:** 
-    AWS, Docker, Docker-Compose, Kubernetes, Terraform, Helm
+    Python (Advanced), C++, Bash, JavaScript, HTML, CSS
+- **Cloud Technologies**
+  * AWS
+  * AWS SAM, Serverless
+  * Kubernetes
+  * Docker/Docker Compose
+  * Terrform
+  * Helm
 - **Version Control & CI/CD:**
     Git, GitHub, GitHub Actions
 - **Operating Systems:**
-  Linux(Ubuntu, Arch, Kali-Linux),Mac-OS, Windows
+  * Linux(Ubuntu, Arch, Kali-Linux)
+  * MacOS
+  * Windows
 - **Security & Networking:**
   Cybersecurity fundamentals, penetration testing, troubleshooting
 
 <hr><br><br>
 <h2  align="center">🎓 Education & Certifications</h2>
-
+- **AWS Certified Solutions Architect - Associate:**
+    Issued: May 21, 2025
 - **DevOps Professional Training:**
     Sela College (2024 – 2025)
     Hands-on training with Git, Docker, Kubernetes, Terraform, AWS, Helm, and CI/CD pipelines.
